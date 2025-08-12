@@ -2,17 +2,25 @@
   Hola, soy Leonel Martinez 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 </h2>
-<h3 align="center">Full Stack Developer · React · TypeScript · Node.js · PostgreSQL · Python · SQL Server</h3>
+<h3 align="center">
+  💻 Full Stack Developer &nbsp;|&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="20"/> React &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" width="20"/> TypeScript &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="20"/> Node.js &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" width="20"/> PostgreSQL &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="20"/> Python &nbsp;·&nbsp;
+
+</h3>
+
 
 <p align="center">
   🚀 Desarrollo apps modernas, rápidas y escalables: e-commerce con pagos en tiempo real, dashboards y sistemas de gestión.
 </p>
 
 ---
-
 ## Sobre mí
-Soy un desarrollador apasionado por crear soluciones eficientes y bien estructuradas, con experiencia en aplicaciones web y sistemas integrales.  
-He trabajado en proyectos que combinan **frontend moderno**, **backends escalables** y **bases de datos relacionales**, integrando **MercadoPago**, **WebSockets** y **Cloud Services**.  
+💡 **Desarrollador Full Stack con pasión por transformar ideas en soluciones digitales modernas y escalables.**  
+Con experiencia en aplicaciones web y sistemas integrales, he trabajado en proyectos que combinan **frontend moderno**, **backends escalables** y **bases de datos relacionales**, integrando **MercadoPago**, **WebSockets** y **Cloud Services**.  
 Además, aplico **metodologías ágiles (Scrum)** para optimizar la colaboración y la entrega continua de valor.  
 
 🎓 Actualmente estudio **Ingeniería en Informática** en **UCASAL**.
