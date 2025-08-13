@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=typescript" width="20"/> TypeScript &nbsp;·&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" width="20"/> Node.js &nbsp;·&nbsp;
   <img src="https://skillicons.dev/icons?i=postgresql" width="20"/> PostgreSQL &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="20"/> Python &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="20"/> Python &nbsp;&nbsp;
 
 </h3>
 
