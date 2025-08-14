@@ -70,4 +70,4 @@ Además, aplico **metodologías ágiles (Scrum)** para optimizar la colaboració
 
 ---
 
-⭐ _"Siempre aprendiendo, siempre mejorando."_
+⭐ "Siempre aprendiendo, siempre mejorando."
