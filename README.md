@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hola, soy Leonel Martinez 
+  Hola, soy Leonel Martínez 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 </h2>
 <h3 align="center">
