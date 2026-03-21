@@ -40,18 +40,7 @@ He participado en proyectos como:
 
 ---
 
-## 🤖 En qué estoy trabajando
 
-Actualmente estoy desarrollando mi tesis:
-
-**Plataforma inteligente para la optimización de costos en servicios de IA**, que permite:
-
-- 📊 Monitorear consumo de tokens por usuario/proyecto  
-- 💸 Analizar costos en tiempo real  
-- ⚡ Aplicar caching inteligente  
-- 🧠 Seleccionar dinámicamente modelos de IA  
-
----
 
 ## 🛠 Stack Tecnológico
 
