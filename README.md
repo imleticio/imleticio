@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mauricio Leonel Martínez
+# Mauricio Leonel Martínez 👋
 
 ### Software Development · Artificial Intelligence · Systems Engineering
 
@@ -8,7 +8,14 @@ Building software systems across desktop, backend and AI/ML.
 
 **TypeScript · React · Rust · Python · Node.js · SQLite/PostgreSQL · TensorFlow**
 
-[LinkedIn](https://linkedin.com/in/mauricio-martinez-7a96b7254) · [Email](mailto:mleonel.martinez0098@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/mauricio-martinez-7a96b7254">
+    <img src="https://img.shields.io/badge/LinkedIn-Mauricio%20Martínez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mleonel.martinez0098@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
