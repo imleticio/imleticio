@@ -1,107 +1,157 @@
-<h2 align="center">
-  Hola, soy Leonel Martínez 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
-</h2>
+<div align="center">
 
-<h3 align="center">
-  💻 Full Stack Developer &nbsp;|&nbsp;
-  ⚙️ Building scalable systems &nbsp;|&nbsp;
-  🤖 AI Cost Optimization
-</h3>
+# Hola, soy Mauricio Leonel Martínez 👋
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,postgresql,python,nestjs" />
-</p>
+### Ingeniería en Informática · Desarrollo de Software · Inteligencia Artificial
 
-<p align="center">
-  🚀 Desarrollo sistemas modernos, escalables y orientados a negocio: dashboards, e-commerce, SaaS y plataformas inteligentes.
-</p>
+Estudiante avanzado de **Ingeniería en Informática en UCASAL**, enfocado en el desarrollo de software, inteligencia artificial y análisis de datos.
+
+Me interesa construir sistemas que combinen buenas bases de ingeniería de software con nuevas tecnologías, desde aplicaciones web y desktop hasta Machine Learning y procesamiento de imágenes.
+
+</div>
 
 ---
 
-## 🧠 Sobre mí
+## 👨‍💻 Sobre mí
 
-💡 **Full Stack Developer enfocado en arquitectura de sistemas y soluciones escalables.**  
+Actualmente me encuentro finalizando la carrera de **Ingeniería en Informática en la Universidad Católica de Salta (UCASAL)**.
 
-Trabajo desarrollando aplicaciones que combinan:
+Trabajo principalmente con **TypeScript, React, Node.js/NestJS, Python y Rust**, participando en el diseño e implementación de aplicaciones, APIs, modelos de datos, persistencia e integración de sistemas.
 
-- ⚡ Frontend moderno (React + TypeScript)
-- 🧩 Backends robustos (Node.js / NestJS)
-- 🗄 Bases de datos relacionales optimizadas
-- 🔄 Integraciones en tiempo real (WebSockets, APIs, pagos)
+También desarrollo proyectos vinculados con **Inteligencia Artificial y Machine Learning**, incluyendo mi tesis de grado orientada al análisis de tumores cerebrales en imágenes de resonancia magnética mediante técnicas de IA.
 
-He participado en proyectos como:
+Me interesa continuar desarrollándome en áreas como:
 
-- 🛒 E-commerce con pagos en tiempo real (MercadoPago)
-- 📊 Dashboards administrativos
-- 🏢 Sistemas de gestión empresarial
-
-🎓 Actualmente estudio **Ingeniería en Informática (UCASAL)**  
+- Desarrollo de software y arquitectura de sistemas
+- Inteligencia Artificial y Machine Learning
+- Análisis y procesamiento de datos
+- Sistemas desktop y aplicaciones web
+- Integración de herramientas y agentes de IA
 
 ---
 
+## 🚀 Proyectos destacados
 
+### 🤖 [Talo](https://github.com/imleticio/Talo)
 
-## 🛠 Stack Tecnológico
+**Plataforma desktop open source para proyectos y agentes de IA.**
+
+Aplicación construida con **React, TypeScript, Tauri y Rust**, orientada a centralizar proyectos, conversaciones y agentes de inteligencia artificial.
+
+Actualmente cuenta con:
+
+- Backend nativo en Rust
+- Persistencia local con SQLite
+- Gestión de proyectos, conversaciones y mensajes
+- Arquitectura modular basada en adaptadores
+- Integración inicial con OpenCode
+- Streaming de respuestas mediante SSE
+- Persistencia de sesiones y conversaciones
+
+> Proyecto actualmente en desarrollo.
+
+---
+
+### 🧠 Tesis de grado — Análisis de tumores cerebrales mediante IA
+
+**Sistema informático de apoyo al análisis de tumores cerebrales en imágenes de resonancia magnética mediante técnicas de Inteligencia Artificial.**
+
+El proyecto explora el uso de **Deep Learning y procesamiento de imágenes médicas** para asistir en el análisis de resonancias magnéticas cerebrales.
+
+Actualmente trabajo con:
+
+- TensorFlow / Keras
+- Transfer Learning
+- ResNet50
+- Xception
+- EfficientNetV2
+- Procesamiento de imágenes MRI
+- Datos médicos 2D y 3D
+- FastAPI + Python
+- React + TypeScript
+
+> Tesis actualmente en desarrollo.
+
+---
+
+### ⛏️ [Seismic Bumps ML](https://github.com/imleticio/seismic-bumps-ml)
+
+**Clasificación de eventos sísmicos potencialmente peligrosos en minería subterránea mediante Machine Learning.**
+
+Proyecto académico basado en el dataset **Seismic-Bumps de UCI**, donde se compararon distintos algoritmos de clasificación supervisada sobre un conjunto de datos fuertemente desbalanceado.
+
+Se trabajó con:
+
+- Decision Tree
+- Naive Bayes
+- k-NN
+- Logistic Regression
+- SMOTE
+- Validación cruzada estratificada
+- Precision, Recall, F1 y AUC
+
+---
+
+## 🛠 Tecnologías
+
+### Lenguajes
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust" />
+</p>
 
 ### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ### Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi" />
 </p>
 
-### Base de Datos
+### Bases de datos
+
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
-### Otros
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/WebSockets-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MercadoPago-009EE3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" />
+### Inteligencia Artificial
 
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake" />
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
+
+`TensorFlow` · `Keras` · `Machine Learning` · `Deep Learning` · `Transfer Learning` · `Procesamiento de imágenes`
+
+### Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 </p>
+
+`Codex` · `Claude Code`
 
 ---
 
-## 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imleticio&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imleticio&layout=compact&theme=tokyonight" height="165"/>
-</p>
+## 🎯 Actualmente
+
+🎓 Finalizando **Ingeniería en Informática — UCASAL**
+
+🧠 Desarrollando mi tesis de grado sobre **Inteligencia Artificial aplicada al análisis de imágenes de resonancia magnética cerebral**
+
+🤖 Construyendo **Talo**, una plataforma desktop open source para trabajar con proyectos y agentes de IA
 
 ---
 
 ## 📫 Contacto
-<p align="center">
-  <a href="mailto:mleonel.martinez0098@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff" />
-  </a>
-  <a href="https://linkedin.com/in/imleticio">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff" />
-  </a>
-  <a href="https://instagram.com/imleticio">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" />
-  </a>
-</p>
 
----
+<div align="center">
 
-⭐ **"Construyendo software que escala, optimiza y genera impacto real."**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio%20Leonel%20Martínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricio-martinez-7a96b7254)
+
+[![Email](https://img.shields.io/badge/Email-mleonel.martinez0098%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mleonel.martinez0098@gmail.com)
+
+</div>
